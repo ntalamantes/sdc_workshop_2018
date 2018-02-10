@@ -1,0 +1,14 @@
+This is a file. 
+Comands :
+
+mkdir : is to creat a new folder 
+touch : is to creat a new file in a folder
+cd: to move between folders 
+FOLDER ARE CALLED DIRECTORIES
+cd.. : it to move back 
+cat: to show info on file 
+ls : to show whats on the actial folder
+>> to move info from document to antoher document matching it
+> over ride info to anther file 
+using head or tail 
+
